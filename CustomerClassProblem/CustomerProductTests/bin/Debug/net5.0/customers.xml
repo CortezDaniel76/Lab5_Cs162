@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>1</Id>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Email>john.doe@example.com</Email>
+    <PhoneNumber>123-456-7890</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>2</Id>
+    <FirstName>Jane</FirstName>
+    <LastName>Smith</LastName>
+    <Email>jane.smith@example.com</Email>
+    <PhoneNumber>987-654-3210</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>3</Id>
+    <FirstName>Bob</FirstName>
+    <LastName>Johnson</LastName>
+    <Email>bob.johnson@example.com</Email>
+    <PhoneNumber>555-555-5555</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>4</Id>
+    <FirstName>Alice</FirstName>
+    <LastName>Williams</LastName>
+    <Email>alice.williams@example.com</Email>
+    <PhoneNumber>444-444-4444</PhoneNumber>
+  </Customer>
+</ArrayOfCustomer>

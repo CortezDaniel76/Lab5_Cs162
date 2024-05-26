@@ -1,1 +1,1 @@
-The existing files did not have a solution file and I was confused as to what to do. I ended up doing the second solution and I am not sure I did it correctly. 
+The Existing starting files and videos confused me. I don't know if this project meets requirements and I aplogize. I will most likely seek more help or tutoring for the next one. 
